@@ -1,0 +1,12 @@
+Model,Best Parameters,Classification Report
+DecisionTree,0.05,
+DecisionTree,5.0,
+DecisionTree,6.0,
+DecisionTree,7.0,
+DecisionTree,30.0,
+DecisionTree,0.6,
+DecisionTree,,"{'precision': 0.7377049180327869, 'recall': 0.9574468085106383, 'f1-score': 0.8333333333333334, 'support': 141.0}"
+DecisionTree,,"{'precision': 0.6470588235294118, 'recall': 0.1864406779661017, 'f1-score': 0.2894736842105263, 'support': 59.0}"
+DecisionTree,,0.73
+DecisionTree,,"{'precision': 0.6923818707810994, 'recall': 0.57194374323837, 'f1-score': 0.5614035087719298, 'support': 200.0}"
+DecisionTree,,"{'precision': 0.7109643201542913, 'recall': 0.73, 'f1-score': 0.6728947368421052, 'support': 200.0}"

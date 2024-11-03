@@ -1,0 +1,12 @@
+Model,Best Parameters,Classification Report
+NeuralNetwork,relu,
+NeuralNetwork,0.01,
+NeuralNetwork,"(50, 50)",
+NeuralNetwork,constant,
+NeuralNetwork,0.1,
+NeuralNetwork,sgd,
+NeuralNetwork,,"{'precision': 0.5992366412213741, 'recall': 0.5181518151815182, 'f1-score': 0.5557522123893804, 'support': 303.0}"
+NeuralNetwork,,"{'precision': 0.8021680216802168, 'recall': 0.8493543758967002, 'f1-score': 0.8250871080139371, 'support': 697.0}"
+NeuralNetwork,,0.749
+NeuralNetwork,,"{'precision': 0.7007023314507954, 'recall': 0.6837530955391091, 'f1-score': 0.6904196602016588, 'support': 1000.0}"
+NeuralNetwork,,"{'precision': 0.7406798134011874, 'recall': 0.749, 'f1-score': 0.7434786346396964, 'support': 1000.0}"
